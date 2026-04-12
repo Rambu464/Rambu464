@@ -3,7 +3,8 @@
 My name is Rambu Ilalang, you can call me Rambu.
 
 I'm currently studying informatics at Universitas Gunadarma. 
-Also I'm studying on Dicoding platform too about Machine Learning and Web Development.<br>
+My focus is to build AI such as Machine Learning, Deep Learning, as well as Generative AI.<br>
+Through this page, you will find my projects mostly about AI and the implentation from learning module.<br>
 
 Connect with me:<br>
 * [Linkedin](https://www.linkedin.com/in/rambu-ilalang-b154b431a/)
