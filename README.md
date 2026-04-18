@@ -8,6 +8,7 @@ Through this page, you will find my projects mostly about AI and the implentatio
 
 Connect with me:<br>
 * [Linkedin](https://www.linkedin.com/in/rambu-ilalang-b154b431a/)
+* [My Portfolio](https://portfolio-frontend-nine-rouge-93.vercel.app/)
 
 # Github Statistic
 <p align="left">
