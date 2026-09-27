@@ -2,13 +2,18 @@
 
 My name is Rambu Ilalang, you can call me Rambu.
 
-I'm currently studying informatics at Universitas Gunadarma. 
-My focus is to build AI such as Machine Learning, Deep Learning, as well as Generative AI.<br>
-Through this page, you will find my projects mostly about AI and the implentation from learning module.<br>
+My focus is to build AI Model such as Machine Learning, Deep Learning, LLM. I'm able to integrate AI model into production.<br>
+Through this page, you will find my projects mostly about AI and the implentation from learning modules.<br>
+
+My Project Recap:
+* Chatbot integrated with SLM Qwen 3.5 2B
+* Agentic To Do Engine, Qwen 3.5 2B
+* Automated Grade for Academic Report
+* MLOps Project
+* Sport Classification Based On Image
 
 Connect with me:<br>
 * [Linkedin](https://www.linkedin.com/in/rambu-ilalang-b154b431a/)
-* [My Portfolio](https://portfolio-frontend-nine-rouge-93.vercel.app/)
 
 # Github Statistic
 <p align="left">
