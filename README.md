@@ -3,7 +3,7 @@
 My name is Rambu Ilalang, you can call me Rambu.
 
 My focus is to build AI Model such as Machine Learning, Deep Learning, LLM. I'm able to integrate AI model into production.<br>
-Through this page, you will find my projects mostly about AI and the implentation from learning modules.<br>
+Through this page, you will find my projects mostly about AI Engineering and Deployment.<br>
 
 My Project Recap:
 * Chatbot integrated with SLM Qwen 3.5 2B
