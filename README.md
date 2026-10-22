@@ -14,7 +14,7 @@ My Project Recap:
 
 
 Connect with me:<br>
-* [Linkedin](linkedin.com/in/rambu-ilalang)
+* [Linkedin](https://www.linkedin.com/in/rambu-ilalang)
 
 # Github Statistic
 <p align="left">
