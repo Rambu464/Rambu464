@@ -6,14 +6,15 @@ My focus is to build AI Model such as Machine Learning, Deep Learning, LLM. I'm 
 Through this page, you will find my projects mostly about AI Engineering and Deployment.<br>
 
 My Project Recap:
-* Chatbot integrated with SLM Qwen 3.5 2B
-* Agentic To Do Engine, Qwen 3.5 2B
-* Automated Grade for Academic Report
-* MLOps Project
-* Sport Classification Based On Image
+* [SLM RAG Chatbot with Qwen 3.5 2B](https://github.com/Rambu464/chatbot)
+* Finance Dashboard App
+* [Skill Advisor Chatbot](https://github.com/Rambu464/gemini-chatbot-api)
+* [Sport Classification Image with CNN](https://github.com/Rambu464/Sport-Classification-based-on-Image-with-Transfer-Learning)
+* [AI Calendar Assistant](https://github.com/Rambu464/Agentic-To-Do-Engine)
+
 
 Connect with me:<br>
-* [Linkedin](https://www.linkedin.com/in/rambu-ilalang-b154b431a/)
+* [Linkedin](linkedin.com/in/rambu-ilalang)
 
 # Github Statistic
 <p align="left">
