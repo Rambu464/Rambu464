@@ -7,10 +7,10 @@ Through this page, you will find my projects mostly about AI Engineering and Dep
 
 My Project Recap:
 * [SLM RAG Chatbot with Qwen 3.5 2B](https://github.com/Rambu464/chatbot)
-* Finance Dashboard App
+* Predictive Lead Scoring
 * [Skill Advisor Chatbot](https://github.com/Rambu464/gemini-chatbot-api)
 * [Sport Classification Image with CNN](https://github.com/Rambu464/Sport-Classification-based-on-Image-with-Transfer-Learning)
-* [AI Calendar Assistant](https://github.com/Rambu464/Agentic-To-Do-Engine)
+* [Agentic Calendar Assistant](https://github.com/Rambu464/Agentic-To-Do-Engine)
 
 
 Connect with me:<br>
